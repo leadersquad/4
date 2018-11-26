@@ -1,0 +1,6 @@
+token=NTE2NjE3ODk2NzA1Nzg1ODc3.Dt2Rkw.t6K1aG0M_ioti3QiIbGpVqpQ434
+owner=287394880496599040
+prefix= Nm
+game= Type Nmhelp
+stayinchannel=true
+songinstatus=true
